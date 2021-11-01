@@ -46,31 +46,31 @@ namespace dotnet_ejercicios
             {
                 case 12:
                     nombre_caso = "America del Norte";
-                    PreMin = 200;
+                    Precio_Minutos = 200;
                     break;
                 case 15:
-                    NameCase = "America Central";
-                    PreMin = 220;
+                    nombre_caso = "America Central";
+                    Precio_Minutos = 220;
                     break;
                 case 18:
-                    NameCase = "America del Sur";
-                    PreMin = 450;
+                    nombre_caso = "America del Sur";
+                    Precio_Minutos = 450;
                     break;
                 case 19:
-                    NameCase = "Europa";
-                    PreMin = 350;
+                    nombre_caso = "Europa";
+                    Precio_Minutos = 350;
                     break;
                 case 23:
-                    NameCase = "Asia";
-                    PreMin = 600;
+                    nombre_caso = "Asia";
+                    Precio_Minutos = 600;
                     break;
                 case 25:
-                    NameCase = "África";
-                    PreMin = 600;
+                    nombre_caso = "África";
+                    Precio_Minutos = 600;
                     break;
                 case 29:
-                    NameCase = "Oceanía";
-                    PreMin = 500;
+                    nombre_caso = "Oceanía";
+                    Precio_Minutos = 500;
                     break;
                 valor_Total = Precio_Minutos * Minutos_Hablados;
                 Console.WriteLine("Llamada a " + nombre_caso);

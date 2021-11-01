@@ -17,7 +17,7 @@ namespace dotnet_ejercicios
 
 
             Console.WriteLine("Digite la cantidad de computadores desea comprar");
-            CanComp = byte.Parse(Console.ReadLine());
+            Cantidad_Computadores = byte.Parse(Console.ReadLine());
 
             Precio_Computador = 1100000;
 
