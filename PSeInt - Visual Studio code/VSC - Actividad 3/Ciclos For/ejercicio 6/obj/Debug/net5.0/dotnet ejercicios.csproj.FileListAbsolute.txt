@@ -1,0 +1,32 @@
+C:\Users\MILLER\Desktop\dotnet ejercicios\Simples\ejercicio 1\bin\Debug\net5.0\dotnet ejercicios.exe
+C:\Users\MILLER\Desktop\dotnet ejercicios\Simples\ejercicio 1\bin\Debug\net5.0\dotnet ejercicios.deps.json
+C:\Users\MILLER\Desktop\dotnet ejercicios\Simples\ejercicio 1\bin\Debug\net5.0\dotnet ejercicios.runtimeconfig.json
+C:\Users\MILLER\Desktop\dotnet ejercicios\Simples\ejercicio 1\bin\Debug\net5.0\dotnet ejercicios.runtimeconfig.dev.json
+C:\Users\MILLER\Desktop\dotnet ejercicios\Simples\ejercicio 1\bin\Debug\net5.0\dotnet ejercicios.dll
+C:\Users\MILLER\Desktop\dotnet ejercicios\Simples\ejercicio 1\bin\Debug\net5.0\ref\dotnet ejercicios.dll
+C:\Users\MILLER\Desktop\dotnet ejercicios\Simples\ejercicio 1\bin\Debug\net5.0\dotnet ejercicios.pdb
+C:\Users\MILLER\Desktop\dotnet ejercicios\Simples\ejercicio 1\obj\Debug\net5.0\dotnet ejercicios.csproj.AssemblyReference.cache
+C:\Users\MILLER\Desktop\dotnet ejercicios\Simples\ejercicio 1\obj\Debug\net5.0\dotnet ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MILLER\Desktop\dotnet ejercicios\Simples\ejercicio 1\obj\Debug\net5.0\dotnet ejercicios.AssemblyInfoInputs.cache
+C:\Users\MILLER\Desktop\dotnet ejercicios\Simples\ejercicio 1\obj\Debug\net5.0\dotnet ejercicios.AssemblyInfo.cs
+C:\Users\MILLER\Desktop\dotnet ejercicios\Simples\ejercicio 1\obj\Debug\net5.0\dotnet ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\MILLER\Desktop\dotnet ejercicios\Simples\ejercicio 1\obj\Debug\net5.0\dotnet ejercicios.dll
+C:\Users\MILLER\Desktop\dotnet ejercicios\Simples\ejercicio 1\obj\Debug\net5.0\ref\dotnet ejercicios.dll
+C:\Users\MILLER\Desktop\dotnet ejercicios\Simples\ejercicio 1\obj\Debug\net5.0\dotnet ejercicios.pdb
+C:\Users\MILLER\Desktop\dotnet ejercicios\Simples\ejercicio 1\obj\Debug\net5.0\dotnet ejercicios.genruntimeconfig.cache
+C:\Users\MILLER\Desktop\adsi-2338200\PSeInt - Visual Studio code\VSC - Actividad 3\Ciclos For\ejercicio 6\bin\Debug\net5.0\dotnet ejercicios.exe
+C:\Users\MILLER\Desktop\adsi-2338200\PSeInt - Visual Studio code\VSC - Actividad 3\Ciclos For\ejercicio 6\bin\Debug\net5.0\dotnet ejercicios.deps.json
+C:\Users\MILLER\Desktop\adsi-2338200\PSeInt - Visual Studio code\VSC - Actividad 3\Ciclos For\ejercicio 6\bin\Debug\net5.0\dotnet ejercicios.runtimeconfig.json
+C:\Users\MILLER\Desktop\adsi-2338200\PSeInt - Visual Studio code\VSC - Actividad 3\Ciclos For\ejercicio 6\bin\Debug\net5.0\dotnet ejercicios.runtimeconfig.dev.json
+C:\Users\MILLER\Desktop\adsi-2338200\PSeInt - Visual Studio code\VSC - Actividad 3\Ciclos For\ejercicio 6\bin\Debug\net5.0\dotnet ejercicios.dll
+C:\Users\MILLER\Desktop\adsi-2338200\PSeInt - Visual Studio code\VSC - Actividad 3\Ciclos For\ejercicio 6\bin\Debug\net5.0\ref\dotnet ejercicios.dll
+C:\Users\MILLER\Desktop\adsi-2338200\PSeInt - Visual Studio code\VSC - Actividad 3\Ciclos For\ejercicio 6\bin\Debug\net5.0\dotnet ejercicios.pdb
+C:\Users\MILLER\Desktop\adsi-2338200\PSeInt - Visual Studio code\VSC - Actividad 3\Ciclos For\ejercicio 6\obj\Debug\net5.0\dotnet ejercicios.csproj.AssemblyReference.cache
+C:\Users\MILLER\Desktop\adsi-2338200\PSeInt - Visual Studio code\VSC - Actividad 3\Ciclos For\ejercicio 6\obj\Debug\net5.0\dotnet ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MILLER\Desktop\adsi-2338200\PSeInt - Visual Studio code\VSC - Actividad 3\Ciclos For\ejercicio 6\obj\Debug\net5.0\dotnet ejercicios.AssemblyInfoInputs.cache
+C:\Users\MILLER\Desktop\adsi-2338200\PSeInt - Visual Studio code\VSC - Actividad 3\Ciclos For\ejercicio 6\obj\Debug\net5.0\dotnet ejercicios.AssemblyInfo.cs
+C:\Users\MILLER\Desktop\adsi-2338200\PSeInt - Visual Studio code\VSC - Actividad 3\Ciclos For\ejercicio 6\obj\Debug\net5.0\dotnet ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\MILLER\Desktop\adsi-2338200\PSeInt - Visual Studio code\VSC - Actividad 3\Ciclos For\ejercicio 6\obj\Debug\net5.0\dotnet ejercicios.dll
+C:\Users\MILLER\Desktop\adsi-2338200\PSeInt - Visual Studio code\VSC - Actividad 3\Ciclos For\ejercicio 6\obj\Debug\net5.0\ref\dotnet ejercicios.dll
+C:\Users\MILLER\Desktop\adsi-2338200\PSeInt - Visual Studio code\VSC - Actividad 3\Ciclos For\ejercicio 6\obj\Debug\net5.0\dotnet ejercicios.pdb
+C:\Users\MILLER\Desktop\adsi-2338200\PSeInt - Visual Studio code\VSC - Actividad 3\Ciclos For\ejercicio 6\obj\Debug\net5.0\dotnet ejercicios.genruntimeconfig.cache

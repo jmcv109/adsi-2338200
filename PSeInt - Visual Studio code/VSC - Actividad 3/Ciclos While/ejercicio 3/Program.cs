@@ -16,7 +16,7 @@ namespace dotnet_ejercicios
 
             while (contador < n)
             {
-                Console.WriteLine("\nIngrese su genero de acudero a lo siguiente: \n si es hombre marque la opcion 1 \n si es mujer marque la opcion 2");
+                Console.WriteLine("\nIngrese su genero de acuerdo a lo siguiente: \n si es hombre marque la opcion 1 \n si es mujer marque la opcion 2");
                 _ = int.TryParse(Console.ReadLine(), out int genero);
 
                 if (genero == 1)
