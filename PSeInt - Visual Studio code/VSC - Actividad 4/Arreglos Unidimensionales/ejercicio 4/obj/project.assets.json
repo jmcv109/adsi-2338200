@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MILLER\\Desktop\\adsi-2338200\\PSeInt - Visual Studio code\\VSC - Actividad 3\\Ciclos For\\ejercicio 1\\dotnet ejercicios.csproj",
+      "projectUniqueName": "C:\\Users\\MILLER\\Desktop\\adsi-2338200\\PSeInt - Visual Studio code\\VSC - Actividad 4\\Arreglos Unidimensionales\\ejercicio 4\\dotnet ejercicios.csproj",
       "projectName": "dotnet ejercicios",
-      "projectPath": "C:\\Users\\MILLER\\Desktop\\adsi-2338200\\PSeInt - Visual Studio code\\VSC - Actividad 3\\Ciclos For\\ejercicio 1\\dotnet ejercicios.csproj",
+      "projectPath": "C:\\Users\\MILLER\\Desktop\\adsi-2338200\\PSeInt - Visual Studio code\\VSC - Actividad 4\\Arreglos Unidimensionales\\ejercicio 4\\dotnet ejercicios.csproj",
       "packagesPath": "C:\\Users\\MILLER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MILLER\\Desktop\\adsi-2338200\\PSeInt - Visual Studio code\\VSC - Actividad 3\\Ciclos For\\ejercicio 1\\obj\\",
+      "outputPath": "C:\\Users\\MILLER\\Desktop\\adsi-2338200\\PSeInt - Visual Studio code\\VSC - Actividad 4\\Arreglos Unidimensionales\\ejercicio 4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MILLER\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -6,23 +6,28 @@ namespace dotnet_ejercicios
     {
         static void Main(string[] args)
         {
-            //1. Calcular el promedio de un alumno que tiene 7 calificaciones en la materia de Diseño Estructurado
-            //de Algoritmos.
+            //5. Diseñe un algoritmo que lea un número cualquiera y lo busque en el vector X, el cual tiene
+            //almacenados 12 elementos. Escribir la posición donde se encuentra almacenado el número en el
+            //vector o el mensaje “NO” si no lo encuentra.
 
-            string nombre;
-            double  suma = 0, promedio = 0;
-           
-            Console.WriteLine("Escriba nombre del alumno: " );
-            nombre  = Console.ReadLine ();
+            bool verificacion= false;
+            double[] VectorX = {9, 10, 19, 22, 24, 34, 35, 45, 50, 69, 77, 80};
 
-            for (int i=1; i<=7; i++ )
+            Console.WriteLine("\n¿Que numero quiere buscar en el Vector X? ");
+            _= double.TryParse(Console.ReadLine(), out double numero);
+            for (int i = 0; i < VectorX.Length; i++)
             {
-                Console.WriteLine("Digite la calificiacion numero" +i);
-                _ = double.TryParse(Console.ReadLine(), out double calificacion);
-                suma += calificacion;
-                promedio = suma/7;
+                if(VectorX[i] == numero )
+                {
+                Console.WriteLine("\nEl numero se encuentra en la posicion "+(i+1));
+                verificacion = true;
+                }    
             }
-            Console.WriteLine("El alumno es "+nombre+" y el promedio que obtuvo en la materia Diseño Estructurado de Algoritmos es: " +promedio);
+            if (verificacion == false)
+            {
+                Console.WriteLine("\nEl numero no se encontro en el Vector X");
+            }
+            Console.WriteLine("\n");
         }
     }
 }

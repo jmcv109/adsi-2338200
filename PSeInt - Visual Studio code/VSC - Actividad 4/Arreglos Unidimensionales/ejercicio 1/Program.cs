@@ -15,7 +15,7 @@ namespace dotnet_ejercicios
 
             for (int i = 0; i < VectorValores.Length; i++)
             {
-                Console.WriteLine("\nIngrese el valor para la posicion "+(i+1)+" :");
+                Console.WriteLine("\nIngrese el valor para la posicion "+(i+1)+":");
                 _= double.TryParse(Console.ReadLine(), out double Valor);
 
                 VectorValores[i] = Valor;

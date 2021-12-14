@@ -30,7 +30,7 @@ namespace dotnet_ejercicios
                 _= double.TryParse(Console.ReadLine(), out VectorB[i]);  
             }
 
-            Console.WriteLine("\nElementos del Vector C");
+            Console.WriteLine("\nElementos del Vector C ");
             for (int i = 0; i < VectorA.Length; i++)
             {
                 VectorC[i] = VectorA[i] + VectorB[i];

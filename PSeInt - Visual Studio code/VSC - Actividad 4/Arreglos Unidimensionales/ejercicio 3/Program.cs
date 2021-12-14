@@ -12,7 +12,7 @@ namespace dotnet_ejercicios
             double[] VectorN = new double [15];
             double sumaP = 0, sumaN = 0, sumaC = 0, positivos = 0, negativos = 0, ceros = 0;
 
-            Console.WriteLine("\n");
+            Console.WriteLine("\n ");
             for (int i = 0; i < VectorN.Length; i++)
             {
                 Console.WriteLine("Ingrese el numero para la casilla "+(i+1));

@@ -10,6 +10,7 @@ namespace dotnet_ejercicios
             //e imprimir el vector resultante.
 
             double[] Vector = new double [8];
+            double[] VectorB = new double [8];
 
             Console.WriteLine("\n");
             for (int i = 0; i < Vector.Length; i++)
@@ -19,21 +20,20 @@ namespace dotnet_ejercicios
                 
                 Vector[i] = numero;   
             }
-
-            string nombre;
-            double  suma = 0, promedio = 0;
-           
-            Console.WriteLine("Escriba nombre del alumno: " );
-            nombre  = Console.ReadLine ();
-
-            for (int i=1; i<=7; i++ )
+            Console.WriteLine("\nNumeros en el orden original ");
+            for (int i = 0; i < Vector.Length; i++)
             {
-                Console.WriteLine("Digite la calificiacion numero" +i);
-                _ = double.TryParse(Console.ReadLine(), out double calificacion);
-                suma += calificacion;
-                promedio = suma/7;
+                Console.WriteLine(Vector[i]); 
             }
-            Console.WriteLine("El alumno es "+nombre+" y el promedio que obtuvo en la materia Diseño Estructurado de Algoritmos es: " +promedio);
+            Console.WriteLine("\nNumeros en el orden inverso");
+            for (int k = VectorB.Length-1; k < Vector.Length; k--)
+            {
+                Console.WriteLine(Vector[k]); 
+            }
+            Console.WriteLine("\n");
+            
+
+            
         }
     }
 }
